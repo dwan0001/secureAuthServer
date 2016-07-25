@@ -1,1 +1,0 @@
-web: java -cp target/cardAuth.jar config.JAXRSConf
